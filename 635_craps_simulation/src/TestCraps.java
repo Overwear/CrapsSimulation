@@ -21,6 +21,7 @@ import java.util.ArrayList;
  */
 public class TestCraps
 {
+	//my first git commit
 	public static final int NUM_TO_PLAY = 1000000;
 
 	/**
